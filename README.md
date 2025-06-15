@@ -1,2 +1,2 @@
 # Mis_proyectos
-Notebook data Sciencie
+Analitica de datos y Python
